@@ -1,0 +1,9 @@
+.Jake__mouth {
+  height: 28px;
+  width: 28px;
+  position: absolute;
+  bottom: -2px;
+  left: calc(50% - 14px);
+  border-bottom: 2px solid;
+  border-radius: 30%;
+}

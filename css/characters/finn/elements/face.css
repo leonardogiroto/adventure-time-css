@@ -1,0 +1,17 @@
+.Finn__hat {
+  padding: 12px;
+  background: white;
+  border: 2px solid;
+  border-radius: 0px 0px 12px 12px;
+}
+.Finn__face {
+  background: #ffd3c0;
+  height: 120px;
+  border: 2px solid;
+  border-radius: 84px / 60px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

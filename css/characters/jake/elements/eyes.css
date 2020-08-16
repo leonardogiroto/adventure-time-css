@@ -1,0 +1,23 @@
+.Jake__eyes {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.Jake__eye {
+  height: 50px;
+  width: 50px;
+  background: black;
+  padding: 8px;
+  border-radius: 100%;
+}
+.Jake__pupil {
+  height: 50px;
+  width: 50px;
+  background: white;
+  border-radius: 100%;
+  position: relative;
+  top: -2px;
+  right: -3px;
+}

@@ -1,0 +1,13 @@
+@import 'elements/face.css';
+@import 'elements/eyes.css';
+@import 'elements/moustache.css';
+@import 'elements/nose.css';
+@import 'elements/mouth.css';
+
+.Jake {
+  background: black;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  position: relative;
+}

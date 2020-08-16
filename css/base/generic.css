@@ -1,0 +1,24 @@
+body {
+  background: var(--bg-color);
+  text-align: center;
+  margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: var(--primary-color);
+}
+h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3 img {
+  width: 50px;
+}
+p, li {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: var(--secondary-color);
+}
+button {
+  font-family: 'Roboto Condensed', sans-serif;
+}

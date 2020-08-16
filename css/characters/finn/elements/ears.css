@@ -1,0 +1,15 @@
+.Finn__ears {
+  display: flex;
+  justify-content: space-between;
+}
+.Finn__ear {
+  background: white;
+  border-top: 2px solid;
+  border-right: 2px solid;
+  border-left: 2px solid;
+  height: 30px;
+  width: 30px;
+  border-radius: 50% 50% 0px 0px;
+  position: relative;
+  top: 2px;
+}

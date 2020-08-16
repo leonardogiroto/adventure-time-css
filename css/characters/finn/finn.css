@@ -1,0 +1,12 @@
+@import 'elements/face.css';
+@import 'elements/ears.css';
+@import 'elements/eyes.css';
+@import 'elements/mouth.css';
+@import 'elements/wrinkles.css';
+
+.Finn {
+  background: #20beff;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}

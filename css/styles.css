@@ -1,0 +1,6 @@
+@import 'base/variables.css';
+@import 'base/resets.css';
+@import 'base/generic.css';
+
+@import 'characters/finn/finn.css';
+@import 'characters/jake/jake.css';
