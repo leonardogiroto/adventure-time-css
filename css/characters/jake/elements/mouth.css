@@ -22,9 +22,9 @@
   overflow: hidden;
   animation: Finn__mouth-inner-open--happiness 3s infinite;
 }
-.Jake__mouth-inner-tooth-one,
-.Jake__mouth-inner-tooth-two,
-.Jake__mouth-inner-tooth-three {
+.Jake__tooth-one,
+.Jake__tooth-two,
+.Jake__tooth-three {
   background: white;
   height: 4px;
   position: absolute;
@@ -33,20 +33,20 @@
   border: 1px solid;
   z-index: 1;
 }
-.Jake__mouth-inner-tooth-one {
+.Jake__tooth-one {
   left: calc(50% - 16px);
   width: 6px;
 }
-.Jake__mouth-inner-tooth-two {
+.Jake__tooth-two {
   left: calc(50% - 6px);
   width: 12px;
 }
-.Jake__mouth-inner-tooth-three {
+.Jake__tooth-three {
   left: calc(50% + 10px);
   width: 6px;
 }
 
-.Jake__mouth-inner-tongue {
+.Jake__tongue {
   background: #f090ac;
   height: 12px;
   width: 26px;
