@@ -4,3 +4,10 @@
 
 @import 'characters/finn/finn.css';
 @import 'characters/jake/jake.css';
+
+#Characters {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  max-width: 1280px;
+}

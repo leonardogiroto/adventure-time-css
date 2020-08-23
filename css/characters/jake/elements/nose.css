@@ -1,11 +1,11 @@
 .Jake__nose {
-  width: 30px;
-  height: 16px;
+  width: 32px;
+  height: 20px;
   background: black;
   border-radius: 20px / 12px;
   margin: 0 auto;
   position: absolute;
-  bottom: 30%;
+  bottom: 35%;
   left: calc(50% - 15px);
   z-index: 3;
 }

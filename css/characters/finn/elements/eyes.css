@@ -2,18 +2,18 @@
   display: flex;
   justify-content: space-between;
   width: 55%;
-  animation: Finn__eyes--sadness 2s infinite;
+  animation: Finn__eyes--sadness 4s infinite;
 }
 .Finn__eye {
   border-radius: 100%;
-  animation: Finn__eye--sadness 2s infinite;
+  animation: Finn__eye--sadness 4s infinite;
 }
 .Finn__pupil {
   width: 8px;
   height: 10px;
   background: black;
   border-radius: 100%;
-  animation: Finn__pupil--sadness 2s infinite;
+  animation: Finn__pupil--sadness 4s infinite;
 }
 
 @keyframes Finn__eyes--sadness {

@@ -11,19 +11,22 @@
 .Jake__moustache-left-tip,
 .Jake__moustache-right-tip {
   border-radius: 0 0 100% 100%;
-  width: 38px;
-  height: 50px;
+  width: 36px;
+  height: 46px;
   background: #e2a725;
   position: absolute;
-  bottom: -30px;
+  bottom: -18px;
   border-left: 2px solid;
   border-right: 2px solid;
   border-bottom: 2px solid;
-  z-index: 2;
+  z-index: 3;
+  backface-visibility: hidden;
 }
 .Jake__moustache-left-tip {
-  left: -2px;
+  left: -4.2px;
+  transform: rotate(5deg);
 }
 .Jake__moustache-right-tip {
-  right: -2px;
+  right: -4.2px;
+  transform: rotate(-5deg);
 }
